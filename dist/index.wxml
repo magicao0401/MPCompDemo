@@ -1,0 +1,1 @@
+<view class="index other">{{prop1}}-{{flag}}-{{prop2}}</view>

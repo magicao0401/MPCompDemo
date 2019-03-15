@@ -3,7 +3,7 @@
   <metadata>
     <id>mp.comp.demo</id>
     <title>mp.comp.demo</title>
-    <version>1.0.1</version>
+    <version>${version}</version>
     <authors>MC</authors>
     <description>aaa</description>
     <tags>miniprogram</tags>
